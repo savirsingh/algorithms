@@ -1,11 +1,11 @@
 // code by savir singh
-// only works up to 16! because of overflow.
+// only works up to 25! because of overflow.
 
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
 
-int factorial(int n) {
+ll factorial(ll n) {
     if (n%2==0) {
         ll f1=1;
         ll f2=1;
