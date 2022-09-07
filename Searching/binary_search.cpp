@@ -21,7 +21,7 @@ bool b_s(vector<int> v, int f)
         }
     }
     if (v[low]==f || v[high]==f) {
-        true;
+        return true;
     }
     else {
         return false;
