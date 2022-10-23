@@ -1,4 +1,5 @@
-// Bruce's code
+// code by savir singh
+// Bruce's algorithm
 // getting all combinations of 1-n
 
 #include <bits/stdc++.h>
