@@ -1,4 +1,5 @@
 // code by savir singh
+// Polynomial String Hashing Template
 
 // Include everything needed for CP
 #include <bits/stdc++.h>
