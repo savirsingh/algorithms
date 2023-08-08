@@ -1,4 +1,5 @@
 // code by savir singh
+// Pattern Matching problem solution using polynomial string hashing.
 
 // Include everything needed for CP
 #include <bits/stdc++.h>
